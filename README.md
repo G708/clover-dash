@@ -43,6 +43,6 @@ In the `clover-dash` dashboard, you can do the following:
 The output file is a csv file with the gene name (HGNC Symbol), gene id (Entrez Gene ID, Ensembl Gene ID), FDR, `Glint`, `Dowsing`, `Treasure Hunt`, and `Ropeway` columns.  Also able to download plots using plotly function.
 
 ## 6. Citation
-If you use `Clover` or `clover-dash`, please cite the following paper:
+If you use `Clover` or `clover-dash`, please cite the following:
 
-> unpublished yet
+> Oba, G. M., & Nakato, R. (2023). Clover: An unbiased method for prioritizing differentially expressed genes using a data-driven approach. GitHub. URL: https://github.com/G708/Clover
