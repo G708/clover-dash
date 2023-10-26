@@ -14,12 +14,8 @@ expressed gene (DEG) list. We used this tool to rank DEGs from bulk RNA-seq anal
 but any gene list with an FDR value (statistically significant value of differentially 
 expressed) is applicable.
 
-For more information, please see the manuscript:
-
-[******](.)
-
 Also, please see the GitHub repository for the code:
-[https://github.com/G708/Dash_demo](https://github.com/G708/Dash_demo)
+[https://github.com/G708/Clover](https://github.com/G708/Clover)
 
 
 

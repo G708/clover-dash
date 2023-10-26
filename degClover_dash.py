@@ -24,7 +24,7 @@ Header = dcc.Markdown('''
 ## Find your Clover gene
 Clover prioritise the gene with Rerity.
 For the detail of the this tool, please visit [document](/document) page or 
-[manuscript](.)
+[https://github.com/G708/Clover](https://github.com/G708/Clover)
 ''')
 
 discription = dcc.Markdown('''
